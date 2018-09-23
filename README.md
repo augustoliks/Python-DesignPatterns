@@ -2,7 +2,8 @@
 
 Material transcrito na intenção de auxiliar o apredizado dos padrões mais utilizados:
 
-- [DUCK TYPING :duck:](https://github.com/augustoliks/mongoDB/tree/master/01-CRUD) 
+- [DUCK TYPING :duck:](https://github.com/augustoliks/Python-DesignPatterns/tree/master/01-DuckTyping) 
+- [Chain Responsability :chain:](https://github.com/augustoliks/Python-DesignPatterns/tree/master/02-ChainResponsability) 
 
 ---
 
