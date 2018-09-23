@@ -5,6 +5,7 @@ Material transcrito na intenção de auxiliar o apredizado dos padrões mais uti
 - [DUCK TYPING :duck:](https://github.com/augustoliks/Python-DesignPatterns/tree/master/01-DuckTyping) 
 - [Chain Responsability :cancer:](https://github.com/augustoliks/Python-DesignPatterns/tree/master/02-ChainResponsability) 
 
+- [Template Methods :black_joker:](https://github.com/augustoliks/Python-DesignPatterns/tree/master/03-TemplateMethodsABC)
 ---
 
 ## Contextualização:
