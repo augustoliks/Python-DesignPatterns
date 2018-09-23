@@ -18,4 +18,10 @@ Material transcrito na intenção de auxiliar o apredizado dos padrões mais uti
 
 * Dentro do contexto dos paradigmas, podemos dizer que os design patterns podem existir ou não, dependendo da linguagem utilizada e não é raro a própria linguagem em si já oferecer uma solução para o problema.
 
+## Observações
 
+* O mais importante ao estudar padrões de projeto é entender qual a real motivação do padrão, e quando ele deve ser aplicado.
+
+* As implementações são menos importantes, pois eles podem variar.
+
+* O importante é resolver o problema de maneira elegante, usando a ideia por trás do padrão como um guia na implementação.
